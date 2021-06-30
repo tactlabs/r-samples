@@ -1,0 +1,2 @@
+x = plot(1:10)
+print(x)

@@ -1,0 +1,7 @@
+# global variable
+txt <- "awesome"
+my_function <- function() {
+  paste("R is", txt)
+}
+
+my_function()
