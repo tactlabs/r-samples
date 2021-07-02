@@ -1,6 +1,6 @@
 # Created on 
 # Course work: 
-# @author: Kevin
+# @author: Vedha
 # Source:
 #     https://r-coder.com/for-loop-r/
 #     https://www.dummies.com/programming/r/how-to-create-a-function-in-r/
