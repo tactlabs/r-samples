@@ -1,0 +1,5 @@
+x <- c(10,20,30,40)
+mylabel <- c("Apples", "Bananas", "Cherries", "Dates")
+colors <- c("blue", "yellow", "green", "black")
+pie(x, label = mylabel, main = "Pie Chart", col = colors)
+legend("bottomright", mylabel, fill = colors)
