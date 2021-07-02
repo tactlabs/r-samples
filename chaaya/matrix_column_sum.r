@@ -12,4 +12,5 @@ print(mat1)
 print(mat2)
 
 # column sum
+print(colSums(mat1))
 print(colSums(mat2))

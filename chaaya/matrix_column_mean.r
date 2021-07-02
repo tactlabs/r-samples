@@ -12,4 +12,5 @@ print(mat1)
 print(mat2)
 
 #column mean
+print(colMeans(mat1))
 print(colMeans(mat2))
